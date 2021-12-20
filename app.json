@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/favicon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.deschoolboy.login"
     },
     "web": {
       "favicon": "./assets/favicon.png"
